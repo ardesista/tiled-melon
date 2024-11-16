@@ -1,0 +1,19 @@
+{
+  "name": "tiled-melon",
+  "version": "1.0.0",
+  "description": "Tiled format extension for exporting better melonJS map files",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "Andrea Simonetto <self@andrea.simonetto.name>",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "path": "^0.12.7",
+    "webpack": "^5.96.1",
+    "webpack-cli": "^5.1.4"
+  }
+}
